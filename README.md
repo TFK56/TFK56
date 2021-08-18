@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @TFK56 (Tarik).
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning JavaScript.
+- 💞️ I’m looking to collaborate on multiple projects.
+- 📫 How to reach me: tarikdev61@gmail.com.
+- Working for the low price.
